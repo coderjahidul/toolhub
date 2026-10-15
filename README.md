@@ -122,3 +122,4 @@ POST /api/v1/pdf/compress
 
 Image uploads are JPG, PNG, WebP, or GIF up to 10 MB. PDFs are up to 20 MB. Merge accepts 2–10 PDFs and 200 pages. Responses are file downloads. A `429` means the daily free limit was reached. Validation and processing errors return `422`.
 # toolhub
+# toolhub
