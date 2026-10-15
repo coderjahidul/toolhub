@@ -1,0 +1,6 @@
+.DS_Store
+/frontend/node_modules
+/frontend/.next
+/backend/vendor
+/backend/.env
+/backend/database/*.sqlite
